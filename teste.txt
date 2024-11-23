@@ -1,1 +1,3 @@
-olá! Sejam bem-vindos ao minicurso de git/gituhb
+olá! Sejam bem-vindos ao minicurso de git/github
+ALTERAÇÃO REALIZADA VIA GITHUB.
+VOCE PRECISA DE DAR UM PULL PARA VER ESSA MENSAGEM.
